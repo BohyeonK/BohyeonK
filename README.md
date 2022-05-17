@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi, there!%20Archive&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20there!&fontSize=60)
 
 #### Hi, I'm Bohyeon Kim.
 #### I'm majoring in AI Bigdata & Business, minor in computer science.
