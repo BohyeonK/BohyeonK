@@ -2,7 +2,7 @@
 
 #### Hi, I'm Bohyeon Kim.
 #### I'm majoring in AI Bigdata & Business, minor in computer science.
-#### I'm Data Scientist of BA Korea.
+#### I'm Data Scientist of BA KOREA.
 #### I'm working on data analysis and AI research.😊
 
 ## Skills
