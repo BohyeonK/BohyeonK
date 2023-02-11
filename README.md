@@ -16,6 +16,13 @@
 |2018.03 ~ 2023.02|국민대학교|소프트웨어전공|학사(부전공)|졸업|
 |2015.03 ~ 2018.02|화봉고등학교|인문계열|-|졸업|
 
+## Certificate
+|명칭|발행처|취득날짜|보존기간|
+|:---:|:---:|:---:|:---:|
+|SQLD (SQL 개발자)|데이터산업진흥원|2021.04|영구|
+|ADsP (데이터분석 준전문가)|데이터산업진흥원|2019.10|영구|
+|MOS Excel|Microsoft|2018.04|영구|
+
 ## Hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BohyeonK%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)          
 
