@@ -25,6 +25,6 @@
 ## Hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BohyeonK%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)          
 
-##
+## SNS
 [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/bblo.ol_928) 
-[![Mail](https://img.shields.io/badge/bhfuxuan99@naver.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](bhfuxuan99@naver.com)
+[![Mail](https://img.shields.io/badge/bhfuxuan99@naver.com-e10915?style=flat-square&logo=Naver&logoColor=white)](bhfuxuan99@naver.com)
