@@ -27,4 +27,4 @@
 
 ## SNS
 [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/bblo.ol_928) 
-[![Mail](https://img.shields.io/badge/bhfuxuan99@naver.com-e10915?style=flat-square&logo=Naver&logoColor=white)](bhfuxuan99@naver.com)
+[![Naver](https://img.shields.io/badge/bhfuxuan99@naver.com-e10915?style=flat-square&logo=Naver&logoColor=white)](bhfuxuan99@naver.com)
