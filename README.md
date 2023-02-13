@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=This&nbsp;is&nbsp;Bohyeon's&nbsp;GitHub!&fontSize=60)
 
 #### Hi, I'm Bohyeon Kim.
-#### I'm majoring in AI Bigdata & Business, minor in computer science.
 #### I'm Data Scientist of BA KOREA.
 #### I'm working on data analysis and AI research.😊
 
