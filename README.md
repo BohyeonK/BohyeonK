@@ -2,7 +2,7 @@
 
 #### Hi, I'm Bohyeon Kim.
 #### I'm Data Scientist of BA KOREA.
-#### I'm working on data analysis and AI research. 😊
+#### I'm working on "data analysis" and "AI research". 😊
 #### If you want to contact me, please send an email to "bhfuxuan99@naver.com".
 #### My Portfolio 👇🏻
 https://amenable-beaufort-40f.notion.site/Bohyeon-Kim-5950a4cdff1f4e9382e18f5ebe07e9af
