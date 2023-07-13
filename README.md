@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=This&nbsp;is&nbsp;Bohyeon's&nbsp;GitHub!&fontSize=60)
 
 #### Hi, I'm Bohyeon Kim.
-#### I'm Data Scientist of BA KOREA.
+#### I'm a Data Scientist.
 #### I'm working on "Bigdata & AI analysis Consulting". 😊
 #### If you want to contact me, please send an email to "bhfuxuan99@naver.com".
 #### My Portfolio 👇🏻
@@ -33,6 +33,3 @@ https://amenable-beaufort-40f.notion.site/Bohyeon-Kim-5950a4cdff1f4e9382e18f5ebe
 |SQLD (SQL 개발자)|데이터산업진흥원|2021.04|영구|
 |ADsP (데이터분석 준전문가)|데이터산업진흥원|2019.10|영구|
 |MOS Excel|Microsoft|2018.04|영구|
-
-## Hits
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BohyeonK%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
