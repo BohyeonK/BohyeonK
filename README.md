@@ -5,7 +5,7 @@
 #### I'm working on "Bigdata & AI analysis Consulting". 😊
 #### If you want to contact me, please send an email to "bhfuxuan99@naver.com".
 #### My Portfolio 👇🏻
-https://amenable-beaufort-40f.notion.site/Bohyeon-Kim-5950a4cdff1f4e9382e18f5ebe07e9af
+[Notion](https://amenable-beaufort-40f.notion.site/Bohyeon-Kim-5950a4cdff1f4e9382e18f5ebe07e9af?pvs=4)
 
 ## Skills
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
