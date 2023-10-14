@@ -2,7 +2,7 @@
 
 #### Hi, I'm Bohyeon Kim.
 #### I'm a Data Scientist.
-#### I'm working on "Bigdata & AI analysis Consulting". 😊
+#### I'm working on "Anomaly Detection & Modeling". 😊
 #### If you want to contact me, please send an email to "bhfuxuan99@naver.com".
 #### My Portfolio 👇🏻
 [📚 My Portfolio 📚](https://amenable-beaufort-40f.notion.site/Bohyeon-Kim-5950a4cdff1f4e9382e18f5ebe07e9af?pvs=4)
